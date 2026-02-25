@@ -33,8 +33,3 @@ You can play the live demo in your browser using the link above.
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/SreeAshish/XR_Assesment_Build.git
