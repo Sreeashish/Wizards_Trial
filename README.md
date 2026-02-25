@@ -1,6 +1,6 @@
 # Wizard’s Trial
 
-**Live Demo:** https://sreeashish.github.io/XR_Assesment_Build/
+**Live Demo:** https://sreeashish.github.io/Wizards_Trial/
 
 **Wizard’s Trial** is a fast prototype WebGL game built in Unity in a single day to showcase rapid prototyping and core gameplay implementation skills.
 
